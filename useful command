@@ -1,0 +1,11 @@
+screen /dev/ttyUSB0 115200
+
+scp image.jpg sham@10.78.19.181:/home/sham/Desktop/hackathonproject2026
+
+scp emotion.py vincent@10.78.19.241:~/
+
+python3 camera.py
+
+
+python3 -m venv my-venv
+source my-venv/bin/activate
