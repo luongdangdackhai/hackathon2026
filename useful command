@@ -1,8 +1,13 @@
 screen /dev/ttyUSB0 115200
-
 scp image.jpg sham@10.78.19.181:/home/sham/Desktop/hackathonproject2026
 
-scp emotion.py vincent@10.78.19.241:~/
+scp image.jpg sham@10.51.165.181:/home/sham/Desktop/hackathonproject2026
+
+scp face.py vincent@10.78.19.241:~/
+
+scp face.py vincent@10.51.165.241:~/
+
+
 
 python3 camera.py
 

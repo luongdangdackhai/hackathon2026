@@ -1,0 +1,23 @@
+[33mcommit d56167c82df2279a3bf6a05bb539bc6fcc48f065[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: sham <luongdangdackhai@gmail.com>
+Date:   Thu Feb 19 22:46:26 2026 -0700
+
+    split ram and memory method
+
+[33mcommit cd3969c5c357d0e1b37c47488914d1e3f12dc016[m
+Author: sham <luongdangdackhai@gmail.com>
+Date:   Thu Feb 19 22:39:16 2026 -0700
+
+    split ram and memory camera method
+
+[33mcommit 5b3a2ae69978810a0afcefb33fc74d70b346fa09[m
+Author: sham <luongdangdackhai@gmail.com>
+Date:   Wed Feb 18 21:53:36 2026 -0700
+
+    clean up
+
+[33mcommit 09140696d88aeb004560dc151ac1c3bcd539526d[m
+Author: sham <luongdangdackhai@gmail.com>
+Date:   Wed Feb 18 21:37:59 2026 -0700
+
+    unoptimized face algo

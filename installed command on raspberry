@@ -1,9 +1,8 @@
 sudo apt install python3-picamzero
 sudo apt install -y python3-picamera2
 
-
+sudo apt install python3-imageio (notused)
 
 
 dlib downloaded but not installed
-
 

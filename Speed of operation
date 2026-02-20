@@ -1,0 +1,3 @@
+capture photos : 0.11s
+face detection(found face) + photo capture: 0.35s
+face detection(face not found) + photo capture: 0.28s
